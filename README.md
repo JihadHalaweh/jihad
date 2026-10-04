@@ -1,0 +1,2 @@
+# jihad
+my python codes 
